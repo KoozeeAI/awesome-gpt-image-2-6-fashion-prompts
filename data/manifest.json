@@ -1,0 +1,217 @@
+{
+  "case_count": 19,
+  "cases": [
+    {
+      "content_category": "Fashion Editorial",
+      "fashion_use_case": "Fashion Editorial magazine cover",
+      "filename": "avant-garde-couture-architectural-editorial.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-6",
+      "product_category": "Mixed Fashion",
+      "raw_model": "GPT Image 2.6",
+      "source_path": "cases/avant-garde-couture-architectural-editorial.md",
+      "title": "Avant Garde Couture Architectural Editorial"
+    },
+    {
+      "content_category": "Campaign Poster",
+      "fashion_use_case": "Avant-garde sportswear advertising campaign",
+      "filename": "badminton-sportswear-campaign-poster.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-6",
+      "product_category": "Full Outfit",
+      "raw_model": "GPT Image 2.6",
+      "source_path": "cases/badminton-sportswear-campaign-poster.md",
+      "title": "Badminton Sportswear Campaign Poster"
+    },
+    {
+      "content_category": "Virtual Try-On",
+      "fashion_use_case": "Virtual try-on with garment fidelity",
+      "filename": "garment-preserved-virtual-try-on.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-6",
+      "product_category": "Other",
+      "raw_model": "GPT Image 2.6",
+      "source_path": "cases/garment-preserved-virtual-try-on.md",
+      "title": "Garment-Preserved Virtual Try-On"
+    },
+    {
+      "content_category": "Outfit Editing",
+      "fashion_use_case": "Garment retouching",
+      "filename": "garment-wrinkle-removal-product-editing.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-6",
+      "product_category": "Other",
+      "raw_model": "GPT Image 2.6",
+      "source_path": "cases/garment-wrinkle-removal-product-editing.md",
+      "title": "Garment Wrinkle Removal Product Editing"
+    },
+    {
+      "content_category": "Fashion Editorial",
+      "fashion_use_case": "Garment reconstruction and street fashion editorial",
+      "filename": "ghost-mannequin-to-street-fashion-editorial.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-6",
+      "product_category": "Other",
+      "raw_model": "GPT Image 2.6",
+      "source_path": "cases/ghost-mannequin-to-street-fashion-editorial.md",
+      "title": "Ghost Mannequin to Street Fashion Editorial"
+    },
+    {
+      "content_category": "Campaign Poster",
+      "fashion_use_case": "Streetwear fashion campaign poster with consistent artwork across products",
+      "filename": "graphic-t-shirt-streetwear-campaign-poster.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-6",
+      "product_category": "Streetwear",
+      "raw_model": "GPT Image 2.6",
+      "source_path": "cases/graphic-t-shirt-streetwear-campaign-poster.md",
+      "title": "Graphic T-Shirt Streetwear Campaign Poster"
+    },
+    {
+      "content_category": "Outfit Editing",
+      "fashion_use_case": "Virtual try-on and clothing replacement using provided garment images",
+      "filename": "identity-preserved-outfit-editing.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-6",
+      "product_category": "Full Outfit",
+      "raw_model": "GPT Image 2.6",
+      "source_path": "cases/identity-preserved-outfit-editing.md",
+      "title": "Identity-Preserved Outfit Editing"
+    },
+    {
+      "content_category": "Fashion Editorial",
+      "fashion_use_case": "Multi-look fashion editorial showcasing Japanese-inspired outfits, silhouettes, hosiery, and accessories",
+      "filename": "japanese-kimono-and-seifuku-fashion-editorial.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-6",
+      "product_category": "Mixed Fashion",
+      "raw_model": "GPT Image 2.6",
+      "source_path": "cases/japanese-kimono-and-seifuku-fashion-editorial.md",
+      "title": "Japanese Kimono and Seifuku Fashion Editorial"
+    },
+    {
+      "content_category": "Campaign Poster",
+      "fashion_use_case": "Fashion editorial magazine cover",
+      "filename": "korean-fashion-magazine-cover-editorial.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-6",
+      "product_category": "Full Outfit",
+      "raw_model": "GPT Image 2.6",
+      "source_path": "cases/korean-fashion-magazine-cover-editorial.md",
+      "title": "Korean Fashion Magazine Cover Editorial"
+    },
+    {
+      "content_category": "Lifestyle Photo",
+      "fashion_use_case": "Garment reference and virtual try-on",
+      "filename": "mustard-cardigan-street-style-try-on.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-6",
+      "product_category": "Tops",
+      "raw_model": "GPT Image 2.6",
+      "source_path": "cases/mustard-cardigan-street-style-try-on.md",
+      "title": "Mustard Cardigan Street Style Try-On"
+    },
+    {
+      "content_category": "Product Photo",
+      "fashion_use_case": "Footwear product rendering",
+      "filename": "photorealistic-shoe-product-render.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-6",
+      "product_category": "Shoes",
+      "raw_model": "GPT Image 2.6",
+      "source_path": "cases/photorealistic-shoe-product-render.md",
+      "title": "Photorealistic Shoe Product Render"
+    },
+    {
+      "content_category": "Outfit Editing",
+      "fashion_use_case": "Garment recoloring with fabric-detail preservation",
+      "filename": "sage-green-garment-recolor-edit.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-6",
+      "product_category": "Other",
+      "raw_model": "GPT Image 2.6",
+      "source_path": "cases/sage-green-garment-recolor-edit.md",
+      "title": "Sage Green Garment Recolor Edit"
+    },
+    {
+      "content_category": "Outfit Editing",
+      "fashion_use_case": "Apparel material transformation",
+      "filename": "silk-fabric-texture-upgrade.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-6",
+      "product_category": "Other",
+      "raw_model": "GPT Image 2.6",
+      "source_path": "cases/silk-fabric-texture-upgrade.md",
+      "title": "Silk Fabric Texture Upgrade"
+    },
+    {
+      "content_category": "Fashion Editorial",
+      "fashion_use_case": "Fashion Editorial",
+      "filename": "silk-lace-camisole-fashion-editorial.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-6",
+      "product_category": "Tops",
+      "raw_model": "GPT Image 2.6",
+      "source_path": "cases/silk-lace-camisole-fashion-editorial.md",
+      "title": "Silk Lace Camisole Fashion Editorial"
+    },
+    {
+      "content_category": "Fashion Editorial",
+      "fashion_use_case": "Summer fashion editorial and luxury campaign photography",
+      "filename": "summer-outfit-fashion-editorial.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-6",
+      "product_category": "Mixed Fashion",
+      "raw_model": "GPT Image 2.6",
+      "source_path": "cases/summer-outfit-fashion-editorial.md",
+      "title": "Summer Outfit Fashion Editorial"
+    },
+    {
+      "content_category": "Product Photo",
+      "fashion_use_case": "Wallet product photography for a marketplace listing",
+      "filename": "wallet-overhead-flat-lay-product-photo.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-6",
+      "product_category": "Accessories",
+      "raw_model": "GPT Image 2.6",
+      "source_path": "cases/wallet-overhead-flat-lay-product-photo.md",
+      "title": "Wallet Overhead Flat Lay Product Photo"
+    },
+    {
+      "content_category": "Product Photo",
+      "fashion_use_case": "Accessory product photography for an e-commerce catalog",
+      "filename": "wallet-three-quarter-e-commerce-product-photo.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-6",
+      "product_category": "Accessories",
+      "raw_model": "GPT Image 2.6",
+      "source_path": "cases/wallet-three-quarter-e-commerce-product-photo.md",
+      "title": "Wallet Three-Quarter E-Commerce Product Photo"
+    },
+    {
+      "content_category": "Fashion Editorial",
+      "fashion_use_case": "Wardrobe deconstruction and fashion style profile",
+      "filename": "wardrobe-deconstruction-style-profile-collage.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-6",
+      "product_category": "Mixed Fashion",
+      "raw_model": "GPT Image 2.6",
+      "source_path": "cases/wardrobe-deconstruction-style-profile-collage.md",
+      "title": "Wardrobe Deconstruction Style Profile Collage"
+    },
+    {
+      "content_category": "Campaign Poster",
+      "fashion_use_case": "Streetwear fashion campaign",
+      "filename": "youth-streetwear-campaign-ad.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-6",
+      "product_category": "Streetwear",
+      "raw_model": "GPT Image 2.6",
+      "source_path": "cases/youth-streetwear-campaign-ad.md",
+      "title": "Youth Streetwear Campaign Ad"
+    }
+  ],
+  "generated_from": "KoozeeAI/ai-fashion-prompts",
+  "normalized_model_key": "gpt-image-2-6",
+  "repository": "KoozeeAI/awesome-gpt-image-2-6-fashion-prompts"
+}
