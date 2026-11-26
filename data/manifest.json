@@ -1,5 +1,5 @@
 {
-  "case_count": 19,
+  "case_count": 17,
   "cases": [
     {
       "content_category": "Fashion Editorial",
@@ -79,17 +79,6 @@
       "title": "Identity-Preserved Outfit Editing"
     },
     {
-      "content_category": "Fashion Editorial",
-      "fashion_use_case": "Multi-look fashion editorial showcasing Japanese-inspired outfits, silhouettes, hosiery, and accessories",
-      "filename": "japanese-kimono-and-seifuku-fashion-editorial.md",
-      "media_type": "Image",
-      "normalized_model_key": "gpt-image-2-6",
-      "product_category": "Mixed Fashion",
-      "raw_model": "GPT Image 2.6",
-      "source_path": "cases/japanese-kimono-and-seifuku-fashion-editorial.md",
-      "title": "Japanese Kimono and Seifuku Fashion Editorial"
-    },
-    {
       "content_category": "Campaign Poster",
       "fashion_use_case": "Fashion editorial magazine cover",
       "filename": "korean-fashion-magazine-cover-editorial.md",
@@ -143,17 +132,6 @@
       "raw_model": "GPT Image 2.6",
       "source_path": "cases/silk-fabric-texture-upgrade.md",
       "title": "Silk Fabric Texture Upgrade"
-    },
-    {
-      "content_category": "Fashion Editorial",
-      "fashion_use_case": "Fashion Editorial",
-      "filename": "silk-lace-camisole-fashion-editorial.md",
-      "media_type": "Image",
-      "normalized_model_key": "gpt-image-2-6",
-      "product_category": "Tops",
-      "raw_model": "GPT Image 2.6",
-      "source_path": "cases/silk-lace-camisole-fashion-editorial.md",
-      "title": "Silk Lace Camisole Fashion Editorial"
     },
     {
       "content_category": "Fashion Editorial",

@@ -16,10 +16,6 @@ Explore prompts by their intended fashion use case.
 
 - [Badminton Sportswear Campaign Poster](../cases/badminton-sportswear-campaign-poster.md)
 
-### Fashion Editorial (1)
-
-- [Silk Lace Camisole Fashion Editorial](../cases/silk-lace-camisole-fashion-editorial.md)
-
 ### Fashion Editorial magazine cover (1)
 
 - [Avant Garde Couture Architectural Editorial](../cases/avant-garde-couture-architectural-editorial.md)
@@ -47,10 +43,6 @@ Explore prompts by their intended fashion use case.
 ### Garment retouching (1)
 
 - [Garment Wrinkle Removal Product Editing](../cases/garment-wrinkle-removal-product-editing.md)
-
-### Multi-look fashion editorial showcasing Japanese-inspired outfits, silhouettes, hosiery, and accessories (1)
-
-- [Japanese Kimono and Seifuku Fashion Editorial](../cases/japanese-kimono-and-seifuku-fashion-editorial.md)
 
 ### Streetwear fashion campaign (1)
 

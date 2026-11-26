@@ -41,10 +41,10 @@ GPT Image 2.6 is an AI image generation model. In fashion workflows, it can supp
 
 | Metric | Count |
 | --- | ---: |
-| Total Prompts | 19 |
-| Image Prompts | 19 |
+| Total Prompts | 17 |
+| Image Prompts | 17 |
 | Product Categories | 7 |
-| Fashion Use Cases | 19 |
+| Fashion Use Cases | 17 |
 
 ## ✨ Fashion Prompt Examples
 
@@ -312,43 +312,7 @@ Edit the image to dress the woman using the provided clothing images. Do not cha
 
 ---
 
-### No. 8: Japanese Kimono and Seifuku Fashion Editorial
-
-#### 🖼️ Result Preview
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/HW5sVv0acAAZDAD.jpg" width="460" alt="Japanese Kimono and Seifuku Fashion Editorial">
-</div>
-
-#### 📝 About This Case
-
-A curated AI fashion prompt for Mixed Fashion · Multi-look fashion editorial showcasing Japanese-inspired outfits, silhouettes, hosiery, and accessories · Image.
-
-#### 💬 Prompt Preview
-
-```
-Masterful wide cinematic fashion photography, a single unbroken horizontal 16:9 image, NOT a triptych, no panel splits, no dividing lines. All three women stand and sit together in the SAME spacious modern Japanese ryokan lounge: pale wood floors, a long engawa opening to a sunlit moss garden, paper screens, a low contemporary sofa and a wooden pillar, soft morning sidelight. Full bodies visible from head to toe, with space above their heads and below their feet so nothing is cropped.
-
-Three different adult East Asian women, each 24 to 28, clearly grown women with mature adult faces, defined bone structure, no baby face, no teen look. They are three distinct people, arranged left to right with breathing room, all unusually tall and slender with fashion-model proportions: long legs, long necks, slim waists, willowy elongated silhouettes, elegant 8-head body ratios, never short, never stocky, never heavy-hipped. Photorealistic editorial, no text, no watermark, no logos, no extra people.
-
-```
-...
-
-**[View full prompt →](./cases/japanese-kimono-and-seifuku-fashion-editorial.md)**
-
-#### 🏷️ Details
-
-- **Model:** GPT Image 2.6
-- **Media Type:** Image
-- **Fashion Use Case:** Multi-look fashion editorial showcasing Japanese-inspired outfits, silhouettes, hosiery, and accessories
-- **Content Category:** Fashion Editorial
-- **Product Category:** Mixed Fashion
-- **Creator:** shall 🐟yu (@ChanJunor23588)
-- **Source:** [View original source](https://x.com/ChanJunor23588/status/2120751607310618768)
-
----
-
-### No. 9: Korean Fashion Magazine Cover Editorial
+### No. 8: Korean Fashion Magazine Cover Editorial
 
 #### 🖼️ Result Preview
 
@@ -395,7 +359,7 @@ Place the model in a visually captivating real-
 
 ---
 
-### No. 10: Mustard Cardigan Street Style Try-On
+### No. 9: Mustard Cardigan Street Style Try-On
 
 #### 🖼️ Result Preview
 
@@ -430,7 +394,7 @@ Candid street-style photograph, 50mm, eye-level, shallow depth of field, natural
 
 ---
 
-### No. 11: Photorealistic Shoe Product Render
+### No. 10: Photorealistic Shoe Product Render
 
 #### 🖼️ Result Preview
 
@@ -462,7 +426,7 @@ Turn this pencil sketch into a photorealistic product render. Follow the sketch'
 
 ---
 
-### No. 12: Sage Green Garment Recolor Edit
+### No. 11: Sage Green Garment Recolor Edit
 
 #### 🖼️ Result Preview
 
@@ -494,7 +458,7 @@ Change the color of the garment in the marked area to sage green. Keep the fabri
 
 ---
 
-### No. 13: Silk Fabric Texture Upgrade
+### No. 12: Silk Fabric Texture Upgrade
 
 #### 🖼️ Result Preview
 
@@ -526,40 +490,7 @@ Change the fabric of the garment in the marked area to heavy, lustrous mulberry 
 
 ---
 
-### No. 14: Silk Lace Camisole Fashion Editorial
-
-#### 🖼️ Result Preview
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/HX-YIyFaUAA14B0.jpg" width="460" alt="Silk Lace Camisole Fashion Editorial">
-</div>
-
-#### 📝 About This Case
-
-A curated AI fashion prompt for Tops · Fashion Editorial · Image.
-
-#### 💬 Prompt Preview
-
-```
-Masterful cinematic photography, wide horizontal 16:9 frame. Three different adult East Asian women in the same pure-white art studio, huge lightweight white linen curtains, pale wooden floor, soft champagne, apricot and ivory sidelight like a large softbox. They are clearly three distinct people with different faces, body language, and wardrobe, arranged left to right with breathing room between them. Photorealistic fashion editorial, no text, no watermark, no logos, no extra people.  LEFT — glamorous, confident sexy type (mature "onee" beauty, about 27): slightly sharper features, smoky eyes, deep rose lips, long dark hair half-up. She wears a pale champagne-gold silk camisole with thin straps and floral lace, finely tailored and close-fitting on a curvy figure with a full ample bust. Pose: turned three-quarters away, looking back over her right shoulder at the camera with a slow, knowing gaze, weight on one hip. Cool, sensual, commanding.  CENTER — pure, fresh jade-like beauty (abou
-```
-...
-
-**[View full prompt →](./cases/silk-lace-camisole-fashion-editorial.md)**
-
-#### 🏷️ Details
-
-- **Model:** GPT Image 2.6
-- **Media Type:** Image
-- **Fashion Use Case:** Fashion Editorial
-- **Content Category:** Fashion Editorial
-- **Product Category:** Tops
-- **Creator:** shall 🐟yu (@ChanJunor23588)
-- **Source:** [View original source](https://x.com/ChanJunor23588/status/2125584838791184880)
-
----
-
-### No. 15: Summer Outfit Fashion Editorial
+### No. 13: Summer Outfit Fashion Editorial
 
 #### 🖼️ Result Preview
 
@@ -604,7 +535,7 @@ Explore two complementary summer environments:
 
 ---
 
-### No. 16: Wallet Overhead Flat Lay Product Photo
+### No. 14: Wallet Overhead Flat Lay Product Photo
 
 #### 🖼️ Result Preview
 
@@ -636,7 +567,7 @@ Keep the product exactly as it is, including its shape, stitching, colors and an
 
 ---
 
-### No. 17: Wallet Three-Quarter E-Commerce Product Photo
+### No. 15: Wallet Three-Quarter E-Commerce Product Photo
 
 #### 🖼️ Result Preview
 
@@ -668,7 +599,7 @@ Keep the product's design, colors, materials and logo exactly as they are. Show 
 
 ---
 
-### No. 18: Wardrobe Deconstruction Style Profile Collage
+### No. 16: Wardrobe Deconstruction Style Profile Collage
 
 #### 🖼️ Result Preview
 
@@ -714,7 +645,7 @@ Act as a professional fashion archivist and technical designer. Given an uploade
 
 ---
 
-### No. 19: Youth Streetwear Campaign Ad
+### No. 17: Youth Streetwear Campaign Ad
 
 #### 🖼️ Result Preview
 

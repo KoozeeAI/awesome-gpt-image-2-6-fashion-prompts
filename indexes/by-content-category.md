@@ -10,12 +10,10 @@ Explore prompts by their primary fashion output type.
 - [Wallet Overhead Flat Lay Product Photo](../cases/wallet-overhead-flat-lay-product-photo.md)
 - [Wallet Three-Quarter E-Commerce Product Photo](../cases/wallet-three-quarter-e-commerce-product-photo.md)
 
-### Fashion Editorial (6)
+### Fashion Editorial (4)
 
 - [Avant Garde Couture Architectural Editorial](../cases/avant-garde-couture-architectural-editorial.md)
 - [Ghost Mannequin to Street Fashion Editorial](../cases/ghost-mannequin-to-street-fashion-editorial.md)
-- [Japanese Kimono and Seifuku Fashion Editorial](../cases/japanese-kimono-and-seifuku-fashion-editorial.md)
-- [Silk Lace Camisole Fashion Editorial](../cases/silk-lace-camisole-fashion-editorial.md)
 - [Summer Outfit Fashion Editorial](../cases/summer-outfit-fashion-editorial.md)
 - [Wardrobe Deconstruction Style Profile Collage](../cases/wardrobe-deconstruction-style-profile-collage.md)
 
